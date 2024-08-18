@@ -9,4 +9,6 @@ Reward System: Members earn points for completing tasks, which can be redeemed f
 Community Engagement: Encourage moms to help each other, fostering a stronger sense of community.
 Profile and Dashboard: Personalized user dashboard to manage tasks, track points, and redeem rewards.
 Tech Stack
-Frontend: React.js, Backend: To be decided
+Frontend: React.js, Backend: To be decided.
+Current Progress
+The first component has been successfully developed. This component serves as the foundational element of the platform, and additional features will be built upon it in subsequent updates.
